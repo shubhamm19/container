@@ -1,0 +1,28 @@
+#continer{
+    border: 10px solid blueviolet;
+    width: 700px;
+    height: 500px;
+}
+#content{
+    border: 5px solid black;
+    width: 400px;
+    height: 300px;
+    margin-left: 240px;
+    margin-bottom: 200px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color:skyblue ;
+    text-transform: lowercase;
+    text-transform: capitalize;
+    word-spacing: 17px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px red;
+    font-weight: 900;
+
+}
+#icon{
+    font-size: 70px;
+    color: cyan;
+    padding-left: 50px;
+    
+}
